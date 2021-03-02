@@ -10,6 +10,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/Problems/Beautify both output and code/main.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Problems/String tricks/main.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/a/Complete-Python-3-Bootcamp-master/11-Python Generators/02-Iterators and Generators Homework.ipynb">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
