@@ -7,9 +7,8 @@ files:
     print("\n".join(random_numbers))
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6980#comment
-status: Failed
+status: Solved
 feedback:
-  message: |
-    Failed. Wrong answer
-  time: Tue, 02 Mar 2021 20:48:44 UTC
+  message: <html>Correct solution</html>
+  time: Tue, 02 Mar 2021 20:59:36 UTC
 record: -1
